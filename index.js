@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
   } else if (logShout) {
     return "YES INDEED!";
     
-  } else ("I love you, Grandma.");
+  } else {
     return "I love you, too.";
-  
+  }
 }
